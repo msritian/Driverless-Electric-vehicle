@@ -1,4 +1,4 @@
-Self-driving vehicles are cars or trucks in which human drivers are never required to take
+Self-driving vehicles are the one's where human drivers are never required to take
 control to safely operate the vehicle. Also known as autonomous or “driverless” cars,
 they combine sensors and software to control, navigate, and drive the vehicle. 
 The project presents a mobile robot which is designed to autonomously navigate through a track by
