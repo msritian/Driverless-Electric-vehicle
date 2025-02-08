@@ -23,7 +23,7 @@ signs.The CNN is able to learn meaningful road features from a very sparse train
 signal (steering alone). The system learns for example to detect the outline of a road
 without the need of explicit labels during training.
 
-Future Scope
+Future Scope  
 We have several ideas to improve the performance of the self driving car.The first idea
 would be to add the feature of speed to the CNN so that when the simulator in
 autonomous mode, it is using the predicted speed making the movement appear to be
